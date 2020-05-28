@@ -1,5 +1,4 @@
 name: Build GDrive CLI
-
 on:
   push:
     branches: [ master ]
